@@ -1,4 +1,7 @@
-body {
+/*CSS for Odin Recipes Project*/
+
+
+html{
     background: linear-gradient(#c7c3d3, #6a5d83);
     font-family: Roboto, sans-serif;
     font-size: 1.5em;
@@ -10,11 +13,11 @@ body {
     margin: 0 auto;
     padding: 10px;
 }
-}
+
 
 h1 {
     text-transform: uppercase;
-    font-size: x-large;
+    font-size: 1.5em;
     text-align: center;
 
 }
