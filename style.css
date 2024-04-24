@@ -3,11 +3,10 @@
 
 html{
     background: linear-gradient(#c7c3d3, #6a5d83);
-    font-family: Roboto, sans-serif;
     font-size: 1.5em;
     /* color:rgb(31, 39, 143); */
     color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     min-height: 100vh;
     max-width: 550px;
     margin: 0 auto;
@@ -54,6 +53,7 @@ li {
 p {
     line-height: 1.2;
 }
+<<<<<<< HEAD
 
 button{
    padding: 20px;
@@ -74,3 +74,5 @@ button{
 a{
     text-decoration: none;
 }
+=======
+>>>>>>> 752ebef9f9e2fdafdb8c733f0230a4231929c317
