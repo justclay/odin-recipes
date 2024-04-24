@@ -46,9 +46,31 @@ img {
     height:auto;
     max-width: 85%;
 }
-li{
+
+li {
     padding-bottom: 6px;
 }
+
 p {
     line-height: 1.2;
+}
+
+button{
+   padding: 20px;
+   margin: 10px;
+   text-transform: uppercase;
+   background-color: rgb(219, 210, 123);
+   border-radius: 10px;
+   border: 0
+   
+}
+.menu{
+    padding: 20px;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
 }
